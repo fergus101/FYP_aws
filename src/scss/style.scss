@@ -1,0 +1,8 @@
+// Import CoreUI for React components library
+@import "@coreui/coreui/scss/coreui"; 
+
+// Import default layout scss
+@import '_layout';  
+
+$enable-ltr: true;
+$enable-rtl: true;
